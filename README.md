@@ -1,10 +1,10 @@
-# Responsive NFT Website
+# Responsive Christmas Website
 
-This is a concept of responsive nft website.
+This is a concept of responsive christmas website.
 
 ## Table of contents
 
-- [Responsive NFT Website](#responsive-nft-website)
+- [Responsive Christmas Website](#responsive-christmas-website)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
@@ -20,7 +20,7 @@ This is a concept of responsive nft website.
 
 ### Links
 
-- [Live Site](https://responsive-nft-website-by-srk.netlify.app/)
+- [Live Site]()
 
 ## My process
 
@@ -30,4 +30,6 @@ This is a concept of responsive nft website.
 - CSS custom properties
 - CSS Grid
 - Flexbox
+- Parallax Animation
+- GSAP animation library
 - Mobile-first workflow
