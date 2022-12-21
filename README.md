@@ -20,7 +20,7 @@ This is a concept of responsive christmas website.
 
 ### Links
 
-- [Live Site]()
+- [Live Site](https://responsive-christmas-website-by-srk.netlify.app/)
 
 ## My process
 
